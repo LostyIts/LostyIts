@@ -1,4 +1,4 @@
-# Psykkka
+# Psyka
 
 Seja bem vindo ao meu repositório!
 
